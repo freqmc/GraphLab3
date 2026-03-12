@@ -3,4 +3,4 @@
 
 Взято за основу:
 
-!(https://github.com/freqmc/GraphLab3/blob/master/malevich.jpg?raw=true))
+!(https://github.com/freqmc/GraphLab3/blob/master/malevich.jpg?raw=true)
